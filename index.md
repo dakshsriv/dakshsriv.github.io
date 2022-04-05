@@ -10,6 +10,11 @@ Here is a list of my projects:
 - [A react to-do app](https://github.com/dakshsriv/react-to-do)
 - [Metronome app](https://github.com/dakshsriv/Metronome)
 
+In addition, here are the projects I've contributed and/or forked:
+- [PyChess](https://github.com/dakshsriv/pychess)
+- [cv-strawberry](https://github.com/dakshsriv/cv-strawberry)
+
+
 Here are the languages and frameworks I've coded in:
 - Python 3
 - Pygame
