@@ -6,7 +6,6 @@ Here is a list of my projects:
 
 - [PDF Converter](https://github.com/dakshsriv/PDF-Converter) 
 - [Simple sleep tracker](https://github.com/dakshsriv/PDF-Converter)
-- [Simple sleep tracker](https://github.com/dakshsriv/PDF-Converter)
 - [A react to-do app](https://github.com/dakshsriv/react-to-do)
 - [Metronome app](https://github.com/dakshsriv/Metronome)
 
