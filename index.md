@@ -5,7 +5,7 @@ My name is Daksh. I am a young coder who has been coding for 7 years. I've coded
 Here is a list of my completed projects:
 
 - [A PDF Converter](https://github.com/dakshsriv/PDF-Converter) 
-- [A Simple sleep tracker](https://github.com/dakshsriv/PDF-Converter)
+- [A Simple sleep tracker](https://github.com/dakshsriv/Sleep_Tracker)
 - [A react to-do app](https://github.com/dakshsriv/react-to-do)
 - [A Metronome app](https://github.com/dakshsriv/Metronome)
 - [A Trivia Game](https://github.com/dakshsriv/Trivia_Game)
