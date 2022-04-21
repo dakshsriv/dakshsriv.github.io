@@ -9,6 +9,7 @@ Here is a list of my completed projects:
 - [A react to-do app](https://github.com/dakshsriv/react-to-do)
 - [A Metronome app](https://github.com/dakshsriv/Metronome)
 - [A Trivia Game](https://github.com/dakshsriv/Trivia_Game)
+- [An Edge Detector](https://github.com/dakshsriv/Edge_Detection)
 
 In addition, here are the projects I've contributed and/or forked:
 - [PyChess](https://github.com/dakshsriv/pychess)
@@ -21,3 +22,5 @@ Here are the languages and frameworks I've coded in:
 - PySimpleGUI
 - ReactJS
 - FastAPI
+- Python Imaging Library
+- Git
