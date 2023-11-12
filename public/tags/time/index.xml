@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time on Daksh&#39;s Blog</title>
+    <link>/tags/time/</link>
+    <description>Recent content in time on Daksh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Dec 2022 15:39:12 -0500</lastBuildDate>
+    <atom:link href="/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What to do with empty time</title>
+      <link>/post/what_to_do_with_empty_time/</link>
+      <pubDate>Thu, 15 Dec 2022 15:39:12 -0500</pubDate>
+      <guid>/post/what_to_do_with_empty_time/</guid>
+      <description>One will inevitably encounter several times a week the sensation of empty time; time where it seems nothing productive can be done. Here I&amp;rsquo;m going to tell you how to wisely use that time to your advantage.
+First things first, we must sort out the problem. Time where you have tasks left to do but you can&amp;rsquo;t accomplish any of them can be classified as Type 1 Empty Time, and time when you have no tasks left can be classified as Type 2 Empty Time.</description>
+    </item>
+  </channel>
+</rss>

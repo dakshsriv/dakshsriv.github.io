@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Daksh&#39;s Blog</title>
+    <link>/tags/music/</link>
+    <description>Recent content in music on Daksh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Feb 2023 17:01:27 -0500</lastBuildDate>
+    <atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Piece 1</title>
+      <link>/music/piece_1/</link>
+      <pubDate>Mon, 13 Feb 2023 17:01:27 -0500</pubDate>
+      <guid>/music/piece_1/</guid>
+      <description>Piece 1</description>
+    </item>
+  </channel>
+</rss>

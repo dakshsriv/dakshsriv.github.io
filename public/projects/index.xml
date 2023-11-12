@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Daksh&#39;s Blog</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Daksh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 May 2023 17:10:20 -0400</lastBuildDate>
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Price tracker</title>
+      <link>/projects/price_tracker/</link>
+      <pubDate>Tue, 30 May 2023 17:10:20 -0400</pubDate>
+      <guid>/projects/price_tracker/</guid>
+      <description>&lt;p&gt;A Full Stack Price Tracking Application&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Classroom App</title>
+      <link>/projects/classroom_app/</link>
+      <pubDate>Sun, 18 Dec 2022 15:12:42 -0500</pubDate>
+      <guid>/projects/classroom_app/</guid>
+      <description>&lt;p&gt;A React.js Classroom Management App&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Star Stacker</title>
+      <link>/projects/star_stacker/</link>
+      <pubDate>Sat, 27 Aug 2022 10:22:47 -0500</pubDate>
+      <guid>/projects/star_stacker/</guid>
+      <description>&lt;p&gt;A Linux-compatible star stacker in C&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Translator</title>
+      <link>/projects/translator/</link>
+      <pubDate>Thu, 19 May 2022 16:21:15 -0500</pubDate>
+      <guid>/projects/translator/</guid>
+      <description>&lt;p&gt;A Raspberry Pi based language translator&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

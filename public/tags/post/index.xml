@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>post on Daksh&#39;s Blog</title>
+    <link>/tags/post/</link>
+    <description>Recent content in post on Daksh&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Jun 2023 19:04:28 -0400</lastBuildDate>
+    <atom:link href="/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to test for absorption spectra</title>
+      <link>/post/how_to_test_absorption_spectrum/</link>
+      <pubDate>Sat, 17 Jun 2023 19:04:28 -0400</pubDate>
+      <guid>/post/how_to_test_absorption_spectrum/</guid>
+      <description>&lt;p&gt;How to test your DIY spectrometer&amp;rsquo;s ability to detect absorption spectra&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to make a Spectrometer</title>
+      <link>/post/how_to_make_spectrometer/</link>
+      <pubDate>Sat, 17 Jun 2023 18:47:19 -0400</pubDate>
+      <guid>/post/how_to_make_spectrometer/</guid>
+      <description>&lt;p&gt;The procedure to make a DIY spectrometer&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comfort zone</title>
+      <link>/post/comfort_zone/</link>
+      <pubDate>Sun, 22 Jan 2023 16:31:40 -0500</pubDate>
+      <guid>/post/comfort_zone/</guid>
+      <description>Everybody loves to be in that zone where they are comfortable and laid back. Many feel like they want to stay there forever and never leave. However, it might be a shock to know that zone can ruin your life.
+There are 5 main zones in how much you feel comfortable to perform a task: the lost zone, the comfort zone, the discomfort zone, the growth zone, and the danger zone.</description>
+    </item>
+    <item>
+      <title>Locus of control</title>
+      <link>/post/locus_of_control/</link>
+      <pubDate>Thu, 05 Jan 2023 15:16:35 -0500</pubDate>
+      <guid>/post/locus_of_control/</guid>
+      <description>Ever felt like you have no control over your life? Ever felt like your fate is predetermined? Ever felt like every bad thing that happens to you is meant to be, and that they will be unpreventable. You, my friend, need a little bit of locus of control training.
+What is a locus of control A locus of control, plural loci of control, is the amount someone thinks they have control over their life.</description>
+    </item>
+    <item>
+      <title>What to do with empty time</title>
+      <link>/post/what_to_do_with_empty_time/</link>
+      <pubDate>Thu, 15 Dec 2022 15:39:12 -0500</pubDate>
+      <guid>/post/what_to_do_with_empty_time/</guid>
+      <description>One will inevitably encounter several times a week the sensation of empty time; time where it seems nothing productive can be done. Here I&amp;rsquo;m going to tell you how to wisely use that time to your advantage.
+First things first, we must sort out the problem. Time where you have tasks left to do but you can&amp;rsquo;t accomplish any of them can be classified as Type 1 Empty Time, and time when you have no tasks left can be classified as Type 2 Empty Time.</description>
+    </item>
+    <item>
+      <title>Procrastination</title>
+      <link>/post/procrastination/</link>
+      <pubDate>Sat, 01 Oct 2022 17:00:01 -0400</pubDate>
+      <guid>/post/procrastination/</guid>
+      <description>Procrastination is something we all have been affected by. Lounging about for several days and cramming for that test during one night. It usually leads to dismal results. However, there is an easy way to take control of it, rather than have it take cotrol of you.
+Procreastination can be broken into two types: Type 1 and Type 2. Type 1 Procrastination is the procrastination we&amp;rsquo;re all familiar with. Here is how it works inside our brains.</description>
+    </item>
+    <item>
+      <title>Sample post</title>
+      <link>/post/test/</link>
+      <pubDate>Wed, 17 Aug 2022 11:32:55 -0400</pubDate>
+      <guid>/post/test/</guid>
+      <description>This is a sample post</description>
+    </item>
+  </channel>
+</rss>
